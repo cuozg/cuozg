@@ -71,12 +71,3 @@ A repository focused on improving AI skills and building practical workflows for
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuozg&layout=compact&hide_border=true&bg_color=00000000&title_color=79E7FF&text_color=C7D2E5" alt="Top languages" />
 </p>
 
-## Philosophy
-
-Good game engineering is not just about making something work.
-
-It is about building systems that are clear, extensible, production-ready, and aligned with the product all the way to release.
-
----
-
-If you want this to appear on your GitHub profile, create a repository named **`cuozg`** and put this content in its **`README.md`**.
