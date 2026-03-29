@@ -1,0 +1,37 @@
+# Replaces unreliable github-readme-stats.vercel.app (chronic 503s due to rate limiting)
+# Generates stats SVGs locally via GitHub API — no external service dependency.
+# Cards output to profile-summary-card-output/github_dark/
+#
+# To perfectly match the emerald theme, consider deploying your own github-readme-stats:
+#   https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+#   Then replace the base URL in README.md with your Vercel deployment URL.
+
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-stats-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          THEME_NAME: github_dark
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated stats cards"; then
+            git push
+          fi

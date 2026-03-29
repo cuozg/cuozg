@@ -27,12 +27,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cuozg&show_icons=true&hide_border=true&bg_color=0D3D2D&title_color=10B981&text_color=E8F5F1&icon_color=34D399&ring_color=10B981" alt="GitHub stats" />
+  <img height="180" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
   <img height="180" src="https://streak-stats.demolab.com?user=cuozg&hide_border=true&background=0D3D2D&ring=10B981&fire=10B981&currStreakLabel=34D399&sideLabels=E8F5F1&currStreakNum=10B981&dates=8BA89D&sideNums=10B981&stroke=059669" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuozg&layout=compact&hide_border=true&bg_color=0D3D2D&title_color=10B981&text_color=E8F5F1&icon_color=34D399" alt="Top languages" />
+  <img height="180" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
 </div>
 
 ---
