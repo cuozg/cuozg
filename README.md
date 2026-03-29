@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hasandeirect/walidbosso/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Night Rainbow" width="100%" />
+  <img src="https://raw.githubusercontent.com/cuozg/cuozg/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Night Rainbow" width="100%" />
 </div>
 
 <!--SNAKE-->
