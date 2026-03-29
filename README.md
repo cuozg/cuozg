@@ -1,14 +1,12 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2400&pause=900&color=FFB377&center=true&vCenter=true&width=820&lines=Senior+Unity+Developer;15%2B+Years+in+Games;Client+Lead+at+GearGames;Systems+Thinking+from+0+→+Product;Learning+AI+Hard+for+Real+Workflows" alt="Typing intro" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2400&pause=900&color=10B981&center=true&vCenter=true&width=820&lines=Senior+Unity+Developer;15%2B+Years+in+Games;Client+Lead+at+GearGames;Systems+Thinking+from+0+→+Product;Learning+AI+Hard+for+Real+Workflows" alt="Typing intro" />
 </div>
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-cuozg.github.io-08101D?style=for-the-badge&logo=google-chrome&logoColor=FFB377)](https://cuozg.github.io/)
-  [![GitHub](https://img.shields.io/badge/GitHub-cuozg-08101D?style=for-the-badge&logo=github&logoColor=79E7FF)](https://github.com/cuozg)
-  [![oh-my-skills](https://img.shields.io/badge/Main%20Quest-oh--my--skills-08101D?style=for-the-badge&logo=github&logoColor=FFB377)](https://github.com/cuozg/oh-my-skills)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cuozg.github.io-0D3D2D?style=for-the-badge&logo=google-chrome&logoColor=10B981)](https://cuozg.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-cuozg-0D3D2D?style=for-the-badge&logo=github&logoColor=34D399)](https://github.com/cuozg)
+[![oh-my-skills](https://img.shields.io/badge/Main%20Quest-oh--my--skills-0D3D2D?style=for-the-badge&logo=github&logoColor=10B981)](https://github.com/cuozg/oh-my-skills)
 
 </div>
 
@@ -29,55 +27,37 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cuozg&show_icons=true&hide_border=true&bg_color=08101D&title_color=FFB377&text_color=A7B4CC&icon_color=79E7FF&ring_color=FFB377" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=cuozg&hide_border=true&background=08101D&ring=FFB377&fire=FFB377&currStreakLabel=79E7FF&sideLabels=A7B4CC&currStreakNum=FFB377&dates=A7B4CC&sideNums=FFB377&stroke=1A2744" alt="GitHub streak" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cuozg&show_icons=true&hide_border=true&bg_color=0D3D2D&title_color=10B981&text_color=E8F5F1&icon_color=34D399&ring_color=10B981" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=cuozg&hide_border=true&background=0D3D2D&ring=10B981&fire=10B981&currStreakLabel=34D399&sideLabels=E8F5F1&currStreakNum=10B981&dates=8BA89D&sideNums=10B981&stroke=059669" alt="GitHub streak" />
 </div>
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuozg&layout=compact&hide_border=true&bg_color=08101D&title_color=FFB377&text_color=A7B4CC&icon_color=79E7FF" alt="Top languages" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuozg&layout=compact&hide_border=true&bg_color=0D3D2D&title_color=10B981&text_color=E8F5F1&icon_color=34D399" alt="Top languages" />
 </div>
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuozg&bg_color=08101D&color=A7B4CC&line=FFB377&point=79E7FF&area_color=FFB377&area=true&hide_border=true" alt="Activity graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuozg&bg_color=0D3D2D&color=E8F5F1&line=10B981&point=34D399&area_color=1F4D3D&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuozg/cuozg/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cuozg/cuozg/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/cuozg/cuozg/output/github-snake.svg" />
-  </picture>
-
+  <img src="https://raw.githubusercontent.com/hasandeirect/walidbosso/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Night Rainbow" width="100%" />
 </div>
 
----
-
-## 👾 Pac-Man Contributions
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuozg/cuozg/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cuozg/cuozg/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cuozg/cuozg/output/pacman-contribution-graph.svg" />
-  </picture>
-
-</div>
+<!--SNAKE-->
+<p align="center">
+<a href="https://github.com/cuozg">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/cuozg/cuozg/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+<a href="https://github.com/cuozg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuozg/cuozg/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cuozg/cuozg/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cuozg/cuozg/pacman/pacman-contribution-graph.svg">
+ </picture>
+</a>
+</p>
 
 ---
 
@@ -85,26 +65,26 @@
 
 **Game Development**
 
-![Unity](https://img.shields.io/badge/Unity-08101D?style=flat-square&logo=unity&logoColor=FFB377)
-![C#](https://img.shields.io/badge/C%23-08101D?style=flat-square&logo=csharp&logoColor=FFB377)
-![.NET](https://img.shields.io/badge/.NET-08101D?style=flat-square&logo=dotnet&logoColor=FFB377)
-![Game Architecture](https://img.shields.io/badge/Game%20Architecture-08101D?style=flat-square&logoColor=FFB377)
-![Editor Tooling](https://img.shields.io/badge/Editor%20Tooling-08101D?style=flat-square&logoColor=FFB377)
-![Client Leadership](https://img.shields.io/badge/Client%20Leadership-08101D?style=flat-square&logoColor=FFB377)
+![Unity](https://img.shields.io/badge/Unity-0D3D2D?style=flat-square&logo=unity&logoColor=10B981)
+![C#](https://img.shields.io/badge/C%23-0D3D2D?style=flat-square&logo=csharp&logoColor=10B981)
+![.NET](https://img.shields.io/badge/.NET-0D3D2D?style=flat-square&logo=dotnet&logoColor=10B981)
+![Game Architecture](https://img.shields.io/badge/Game%20Architecture-0D3D2D?style=flat-square&logoColor=10B981)
+![Editor Tooling](https://img.shields.io/badge/Editor%20Tooling-0D3D2D?style=flat-square&logoColor=10B981)
+![Client Leadership](https://img.shields.io/badge/Client%20Leadership-0D3D2D?style=flat-square&logoColor=10B981)
 
 **Tools & Workflow**
 
-![Git](https://img.shields.io/badge/Git-08101D?style=flat-square&logo=git&logoColor=79E7FF)
-![GitHub](https://img.shields.io/badge/GitHub-08101D?style=flat-square&logo=github&logoColor=79E7FF)
-![VS Code](https://img.shields.io/badge/VS%20Code-08101D?style=flat-square&logo=visualstudiocode&logoColor=79E7FF)
-![Rider](https://img.shields.io/badge/Rider-08101D?style=flat-square&logo=rider&logoColor=79E7FF)
-![Python](https://img.shields.io/badge/Python-08101D?style=flat-square&logo=python&logoColor=79E7FF)
+![Git](https://img.shields.io/badge/Git-0D3D2D?style=flat-square&logo=git&logoColor=34D399)
+![GitHub](https://img.shields.io/badge/GitHub-0D3D2D?style=flat-square&logo=github&logoColor=34D399)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D3D2D?style=flat-square&logo=visualstudiocode&logoColor=34D399)
+![Rider](https://img.shields.io/badge/Rider-0D3D2D?style=flat-square&logo=rider&logoColor=34D399)
+![Python](https://img.shields.io/badge/Python-0D3D2D?style=flat-square&logo=python&logoColor=34D399)
 
 **AI & Automation**
 
-![AI Workflows](https://img.shields.io/badge/AI%20Workflows-08101D?style=flat-square&logoColor=FFB377)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-08101D?style=flat-square&logoColor=FFB377)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-08101D?style=flat-square&logoColor=FFB377)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-0D3D2D?style=flat-square&logoColor=10B981)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D3D2D?style=flat-square&logoColor=10B981)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-0D3D2D?style=flat-square&logoColor=10B981)
 
 ---
 
@@ -113,16 +93,12 @@
 | Project | Description |
 |:--------|:------------|
 | [**oh-my-skills**](https://github.com/cuozg/oh-my-skills) | AI skills, workflow automation, and production-minded tooling for better engineering work |
-| [**cuozg.github.io**](https://github.com/cuozg/cuozg.github.io) | Personal portfolio — dark theme with gold/cyan accents, live GitHub integration |
+| [**cuozg.github.io**](https://github.com/cuozg/cuozg.github.io) | Personal portfolio — emerald theme, live GitHub integration |
 
 ---
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=cuozg&color=FFB377&style=flat-square&label=Profile+Views" alt="Profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=cuozg&color=10B981&style=flat-square&label=Profile+Views" alt="Profile views" />
   <br/><br/>
-
-  *Building games by day, building tools by night.*
-
+  _Building games by day, building tools by night._
 </div>
