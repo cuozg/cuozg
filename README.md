@@ -31,9 +31,9 @@
   <img height="180" src="https://streak-stats.demolab.com?user=cuozg&hide_border=true&background=0D3D2D&ring=10B981&fire=10B981&currStreakLabel=34D399&sideLabels=E8F5F1&currStreakNum=10B981&dates=8BA89D&sideNums=10B981&stroke=059669" alt="GitHub streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
-</div> 
+</div>  -->
 
 ---
 
